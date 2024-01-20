@@ -1,5 +1,5 @@
 ---
-title: Folder
+title: AI generated
 type: docs
 prev: docs/first-page
 next: docs/folder/leaf
